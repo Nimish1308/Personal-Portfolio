@@ -2,7 +2,7 @@
 Abstract:
 This website comes under the category of Person Portfolio. A person portfolio, often referred to as a professional portfolio or career portfolio, is a collection of documents, artifacts, and evidence that showcases an individual's skills, achievements, experiences, and qualifications relevant to their professional field. 
 
-Link:https://nimish1308.github.io/Personal-Portfolio/
+Link:  https://nimish1308.github.io/Personal-Portfolio/
 
 Objective:
 The objective of this assignment is to create a personal portfolio website using HTML
