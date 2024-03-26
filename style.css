@@ -85,6 +85,7 @@ a:hover
 .photo
 {
    width: 500px;
+   
   
 }
 
@@ -122,8 +123,69 @@ a:hover
   font-weight: 800;
   font-style: normal;
 }
-
 /* <!--Page Section:Common-->*/
+
+
+/* Page Section:Introduction*/
+#anime
+{
+    animation-name:glow;
+    animation-duration:1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes glow {
+    
+    from
+    {
+       color: black;
+    }
+    to
+    {
+       color: red;
+    }
+}
+/* Page Section:Introduction*/
+/* <!--Page Section:About Me--> Form Part*/
+.form
+{
+    background-color: lightgreen;    
+    margin-top: 5px;
+   text-align: center;
+   font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  border-radius: 30px;
+   
+}
+
+#formfield
+{
+    height: 530px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+
+
+#formlabel
+{
+    font-size: 20px;
+    
+}
+
+#forminput
+{
+    font-size: 20px;
+    margin-bottom: 25px;
+    height: 40px;
+    width: 400px;
+    text-align: center;
+}
+/* <!--Page Section:About Me--> Form Part*/
+
+
+
 
 /*<!--Page Section:Project Details:(Common)-->Projects*/
 
