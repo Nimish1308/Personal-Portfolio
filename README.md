@@ -1,11 +1,9 @@
 # Personal-Portfolio
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Please Read This Before Accessing Website!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Please Read This Before Accessing Website:
 1.Ensure you have good internet connection.
 2.Incase if any img,video showing error then 'Refresh' the page.
 3.Website is now only compatible with desktop,laptop versions only.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 
 Abstract:
 This website comes under the category of Person Portfolio. A person portfolio, often referred to as a professional portfolio or career portfolio, is a collection of documents, artifacts, and evidence that showcases an individual's skills, achievements, experiences, and qualifications relevant to their professional field. 
